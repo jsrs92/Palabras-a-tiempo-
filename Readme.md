@@ -11,7 +11,7 @@ Alphabet Sprint es un juego donde los jugadores deben ingresar palabras que comi
 
 ## Cómo Jugar
 
-1.  Ejecuta el juego: `python palabras_a_tiempo.py`
+1.  Ejecuta el juego: `palabras_a_tiempo.py`
 2.  Ingresa los nombres de los jugadores.
 3.  Elige los temas. 
 4.  Presiona "Iniciar Juego".
