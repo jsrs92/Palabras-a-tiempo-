@@ -1,4 +1,4 @@
-# Alphabet Sprint
+# Palabras a tiempo
 
 Un juego de agilidad mental y vocabulario desarrollado en Python con CustomTkinter.
 
@@ -7,11 +7,11 @@ Alphabet Sprint es un juego donde los jugadores deben ingresar palabras que comi
 
 ## Requisitos
 - Python 3.x instalado.
-- Librería `customtkinter`.
+- Librería **customtkinter**, **tkinter**.
 
 ## Cómo Jugar
 
-1.  Ejecuta el juego: `python alphabet_sprint.py`
+1.  Ejecuta el juego: `python palabras_a_tiempo.py`
 2.  Ingresa los nombres de los jugadores.
 3.  Elige los temas. 
 4.  Presiona "Iniciar Juego".
