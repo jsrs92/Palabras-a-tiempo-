@@ -1,3 +1,4 @@
+# Importar librerias: de interfaz gráfica y random
 import tkinter as tk
 import customtkinter as ctk
 import random
