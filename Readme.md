@@ -1,9 +1,9 @@
 # Palabras a tiempo
 
-Un juego de agilidad mental y vocabulario desarrollado en Python con CustomTkinter.
+Un juego de mesa basado en el clásico tuttifrutti es llevado a la PC a través de la programación en Python.
 
 ## Descripción
-Alphabet Sprint es un juego donde los jugadores deben ingresar palabras que comiencen con una letra seleccionada del tablero antes de que se acabe el tiempo.
+**Palabras a tiempo** es un juego donde los jugadores deben ingresar palabras que comiencen con una letra seleccionada del tablero antes de que se acabe el tiempo.
 
 ## Requisitos
 - Python 3.x instalado.
@@ -27,4 +27,4 @@ Alphabet Sprint es un juego donde los jugadores deben ingresar palabras que comi
 ## Reglas
 -   La palabra debe comenzar obligatoriamente con la letra seleccionada.
 -   No se pueden repetir letras en la misma ronda.
--   Si se completan todas las letras, el tablero se reinicia.
+-   Si se completan todas las letras, el tablero se reinicia manteniendo el mismo tema hasta finalizar el juego.
